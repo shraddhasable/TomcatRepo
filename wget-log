@@ -1,0 +1,6 @@
+--2018-08-26 09:42:35--  http://download.oracle.com/otn-pub/java/jdk/8u181-b13/96a7b8442fe848ef90c96a2fad6ed6d1/jdk-8u181-linux-x64.tar.gz?AuthParam=1535276406_993c166313c6fdbe30e56c29309c377b
+Resolving download.oracle.com (download.oracle.com)... 104.121.228.81
+Connecting to download.oracle.com (download.oracle.com)|104.121.228.81|:80... connected.
+HTTP request sent, awaiting response... 403 ‘wget-log’
+2018-08-26 09:48:35 ERROR 403: Forbidden.
+
